@@ -7,7 +7,7 @@ title: Pajaree Noree
 
 # 🟫  Pajaree 
 
-![Welcome Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![Sleeping Cat GIF](https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif)
 
 🟤🖤🟤🖤🟤🖤🟤🖤🟤🖤
 
@@ -50,7 +50,7 @@ title: Pajaree Noree
 ---
 
 ## 🟫 📫 Contact
-- ✉️ Email: **Nuchandsinb@gmail.com**
+- ✉️ Email: **fangjung2519@gmail.com**
 - 🌐 Facebook: [ยูริ เนโกะฯ ](https://www.facebook.com/yurinekoa/)
 
 🟤🖤🟤🖤🟤🖤🟤🖤🟤🖤
