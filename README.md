@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Phakanan - Developer Portfolio
+title: Pajaree - Developer Portfolio
 ---
 
-# Phakanan - Developer Portfolio
+# Pajaree - Developer Portfolio
 
 Backend Developer | Spring Boot | Kotlin | Database Optimization  
 
