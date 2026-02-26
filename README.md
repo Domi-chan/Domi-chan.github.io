@@ -1,56 +1,40 @@
-
-# 🟤 Domi-chan.github.io
-
 ---
+layout: default
 title: Pajaree Noree
 ---
 
-# 🟫  Pajaree 
+# Pajaree Noree
 
-![Sleeping Cat GIF](https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif)
+Backend Developer | Kotlin | Spring Boot | Database
 
-🟤🖤🟤🖤🟤🖤🟤🖤🟤🖤
-
----
-
-## 🟫 🎓 Education
-- 🎓 Bachelor of Information Technology (Year 4)
-- 🏫 Institute of Vocational Education : Central Region 5  
-  ![cf](1212.jpg)
-
-🟤🖤🟤🖤🟤🖤🟤🖤🟤🖤
+[View My GitHub](https://github.com/Domi-chan)
 
 ---
 
-## 🟫 🧠 Skills
-
-
-
-
-## 🟫 🏢 Current Position
-1. Working at **Banphaeo General Hospital, Sathorn Branch**
-2. **dental assistant**
- 
-
-🟤🖤🟤🖤🟤🖤🟤🖤🟤🖤
+## About Me
+I am a Backend Developer specializing in Kotlin and Spring Boot.
+Interested in Web Security and System Optimization.
 
 ---
 
-## 🟫 🎨 Hobbies
-- Drawing
-- Traveling
-- Gaming
+## Projects
+
+### 🔐 Authentication System
+- Login / Logout System
+- JWT Security
+- Spring Boot + MySQL
+
+### 🛒 E-commerce Website
+- Clothing Store System
+- CRUD Product / Cart / Checkout
+- REST API
+
+### 🛡 Web Security
+- Host Header Attack
+- Firewall Configuration
+- Secure a Switch Lab
 
 ---
 
-## 🟫 🏆 Certificates
-- Cisco Networking Basics
-- APNIC Academy Cybersecurity Fundamentals
-
----
-
-## 🟫 📫 Contact
-- ✉️ Email: **fangjung2519@gmail.com**
-- 🌐 Facebook: [ยูริ เนโกะฯ ](https://www.facebook.com/yurinekoa/)
-
-🟤🖤🟤🖤🟤🖤🟤🖤🟤🖤
+## Contact
+Email: your-email@example.com
