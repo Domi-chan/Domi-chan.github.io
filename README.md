@@ -1,40 +1,43 @@
 ---
 layout: default
-title: Pajaree Noree
+title: Phakanan - Developer Portfolio
 ---
 
-# Pajaree Noree
+# Phakanan - Developer Portfolio
 
-Backend Developer | Kotlin | Spring Boot | Database
+Backend Developer | Spring Boot | Kotlin | Database Optimization  
 
-[View My GitHub](https://github.com/Domi-chan)
-
----
-
-## About Me
-I am a Backend Developer specializing in Kotlin and Spring Boot.
-Interested in Web Security and System Optimization.
+[View On GitHub](https://github.com/yourusername)
 
 ---
 
-## Projects
-
-### 🔐 Authentication System
-- Login / Logout System
-- JWT Security
-- Spring Boot + MySQL
-
-### 🛒 E-commerce Website
-- Clothing Store System
-- CRUD Product / Cart / Checkout
-- REST API
-
-### 🛡 Web Security
-- Host Header Attack
-- Firewall Configuration
-- Secure a Switch Lab
+## Certificate
+- [Certificate](https://linkของคุณ)
 
 ---
 
-## Contact
-Email: your-email@example.com
+## Git-wrapped
+- [git-wrapped](https://linkของคุณ)
+
+---
+
+## Steganography
+- [steganography](https://linkของคุณ)
+
+---
+
+## Word
+- [authentication](https://linkของคุณ)
+- [console](https://linkของคุณ)
+- [firewall](https://linkของคุณ)
+
+---
+
+## Labsim
+- [Lab 5.7.6 – Secure a Switch](https://linkของคุณ)
+- [Lab 5.2.7 – Configure a Security Appliance](https://linkของคุณ)
+
+---
+
+## Web Security
+- [Host Header Attack](https://linkของคุณ)
