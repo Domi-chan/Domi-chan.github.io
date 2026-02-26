@@ -1,7 +1,7 @@
 
 # Steganography-Online
 
-![Steganography](/assets/Steganography.png)
+![Steganography](assets/certificate/Steganography.png)
 
 ---
 
