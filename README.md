@@ -1,43 +1,21 @@
----
-layout: default
-title: Pajaree - Developer Portfolio
----
+Certificate
++ [Certificate](certificate.md)
 
-# Pajaree - Developer Portfolio
+Git-wrapped
++ [git-wrapped](git-wrapped.md)
 
-Backend Developer | Spring Boot | Kotlin | Database Optimization  
+Steganography
++ [steganography](steganography-online.md)
 
-[View On GitHub](https://github.com/yourusername)
+Word
++ [authentication](authentication)
++ [console](console)
++ [firewall](firewall)
 
----
 
-## Certificate
-- [Certificate](https://linkของคุณ)
+Labsim
++ [Lab 5.7.6 — Secure a Switch](secure-a-switch)
++ [Lab 5.2.7 — Configure a Security Appliance](configure-a-security-appliance)
 
----
-
-## Git-wrapped
-- [git-wrapped](https://linkของคุณ)
-
----
-
-## Steganography
-- [steganography](https://linkของคุณ)
-
----
-
-## Word
-- [authentication](https://linkของคุณ)
-- [console](https://linkของคุณ)
-- [firewall](https://linkของคุณ)
-
----
-
-## Labsim
-- [Lab 5.7.6 – Secure a Switch](https://linkของคุณ)
-- [Lab 5.2.7 – Configure a Security Appliance](https://linkของคุณ)
-
----
-
-## Web Security
-- [Host Header Attack](https://linkของคุณ)
+Web Security
++ [Host Header Attack](host-header-attack)
